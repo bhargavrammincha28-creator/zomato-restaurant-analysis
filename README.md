@@ -1,6 +1,5 @@
 # zomato-restaurant-analysis
 Data Analysis Project on Zomato Restaurant Dataset using Excel/SQL/Tableau/PowerBI
-# Zomato Restaurant Analysis
 
 ## Project Overview
 This project analyzes Zomato restaurant data to identify trends in ratings, cuisines, costs, and customer preferences.
